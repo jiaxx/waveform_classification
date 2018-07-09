@@ -1,5 +1,4 @@
 # waveform_classification
-waveform classification with recordings from mouse brain using Neuropixels probes
 
 Waveform classifcation with recordings in mouse brain by Neuropixels probes
 
