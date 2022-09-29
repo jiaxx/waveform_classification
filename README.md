@@ -23,7 +23,10 @@ Data includes:
 ![2D features](image/2d_waveform_features.png "2D waveform features")
 
 
-Codes used to process waveform features and quality metrics are in the ecephys_spike_sorting repo:
+
+Codes used to process waveform features and quality metrics are in:
+https://github.com/jiaxx/waveform_feature_extraction
+and in the ecephys_spike_sorting repo:
 https://github.com/AllenInstitute/ecephys_spike_sorting/tree/master/ecephys_spike_sorting/modules/mean_waveforms
 
 
